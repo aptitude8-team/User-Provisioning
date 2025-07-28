@@ -51,7 +51,7 @@ In the script, edit the following line:
 HUBSPOT_API_KEY = "your-private-app-token"
 ```
 
-### 3. Run the script
+### 2. Run the script
 Basic usage:
 
 python3 update_users.py --csv path/to/your_file.csv
